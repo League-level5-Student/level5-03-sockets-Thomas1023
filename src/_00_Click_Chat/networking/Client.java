@@ -8,6 +8,13 @@ import java.net.UnknownHostException;
 
 import javax.swing.JOptionPane;
 
+
+
+
+
+
+
+
 public class Client {
 	private String ip;
 	private int port;
